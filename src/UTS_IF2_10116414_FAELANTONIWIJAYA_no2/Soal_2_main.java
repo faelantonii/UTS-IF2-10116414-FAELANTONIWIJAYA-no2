@@ -18,6 +18,7 @@ import java.util.Scanner;
 public class Soal_2_main {
     public static void main(String[] args) {
         Tabungan tabungan = new Tabungan();
+        
         Scanner scan = new Scanner (System.in);
         System.out.println("====Program Penarikan Uang====");
         System.out.print("Masukkan Saldo Awal\t: ");
